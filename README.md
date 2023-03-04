@@ -1,3 +1,4 @@
+![MasterHead](https://github.com/RIZHER/RIZHER/blob/main/head.png)
 <h1 align="center">Hi 👋, I'm I GEDE RIZKI HERIANA PRAYOGA</h1>
 <h3 align="center">I’m Interested in UI/UX, Mobile, Photography, and Videography</h3>
 
