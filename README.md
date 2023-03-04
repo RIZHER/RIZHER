@@ -4,7 +4,7 @@
 
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
-<br><br><br><br>
+<br><br><br><br><br><br><br>
 
 - 🌱 I’m currently learning **Dart, Flutter, Java, Kotlin, C, C++**
 
